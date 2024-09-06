@@ -9,12 +9,12 @@ const homee=()=>{
     navigate('/')
 }
 const aboutt =()=>{
-    navigate('about-us')
+    navigate('/about-us')
 }
   return (
     <nav className="sticky-navbar bg-[#403b40c2]">
       <div className="logo-container">
-        <img src={logo} alt="Logo" className="logo" />
+        <img onClick={homee} src={logo} alt="Logo" className="logo" />
       </div>
       <ul className="navbar-list">
         <li className="navbar-item">

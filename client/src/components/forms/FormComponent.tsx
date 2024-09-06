@@ -91,7 +91,7 @@ const FormComponent = () => {
     }, [currentUser, location.state?.redirect, navigate, setStatus, socket, status])
 
     return (
-        <div className="flex max-h-[900px] w-full max-w-[500px] flex-col items-center justify-center gap-4 sm:w-[500px] sm:p-8 bg-[#1a1417c9] p-4 shadow-2xl shadow-[#252525] rounded-2xl">
+        <div className="flex max-h-[900px] w-full max-w-[500px] flex-col items-center justify-center gap-4 sm:w-[500px] sm:p-8 bg-[#694e5c] p-4 shadow-2xl shadow-[#252525] rounded-2xl">
             <img src={logo} alt="Logo" className="w-full"/>
             <form onSubmit={joinRoom} className="flex w-full flex-col gap-4">
                 <input
