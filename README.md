@@ -33,7 +33,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/coding-collab.git
+    git clone https://github.com/PRASHANTKUMAR0107/coding_collab.git
     ```
 
 2. Install dependencies:
