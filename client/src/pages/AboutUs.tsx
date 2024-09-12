@@ -17,7 +17,7 @@ const dash =()=>{
       <div className="flex w-full animate-up-down justify-center sm:w-1/2 sm:pl-4">
                     <img
                         src={hello}
-                        alt="Code Sync Illustration"
+                        alt="Coding Collab Illustration"
                         className="mx-auto w-[250px] sm:w-[400px]"
                     />
                 </div>
@@ -45,7 +45,7 @@ const dash =()=>{
                 <div className="flex w-full animate-up-down justify-center sm:w-1/2 sm:pl-4">
                     <img
                         src={hello}
-                        alt="Code Sync Illustration"
+                        alt="Coding Collab Illustration"
                         className="mx-auto w-[250px] sm:w-[400px]"
                     />
                 </div>
